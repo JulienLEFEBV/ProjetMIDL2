@@ -1,6 +1,8 @@
 <<<<<<< Updated upstream
 .env*
-data/
+data/compute/
+data/models/
+data/points/
 =======
 *.mp4
 *.json
